@@ -228,3 +228,18 @@ A quiz platform featuring authentication, timer, automatic score calculation and
 </a>
 
 </p>
+## 🏅 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IBM-Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Coursera-Certified-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Certified-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Infosys-Springboard-007CC3?style=for-the-badge&logo=infosys&logoColor=white"/>
+
+</p>
