@@ -18,6 +18,15 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-Java • Spring Boot • SQL • MySQL • Git • GitHub • HTML • CSS • JavaScript
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,docker,aws,postman,idea,maven" />
+
+</p>
+
+<p align="center">
+<b>REST APIs • Backend Development • Software Engineering</b>
+</p>
