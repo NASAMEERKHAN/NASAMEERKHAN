@@ -118,92 +118,73 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NASAMEERKHAN&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
-
 <tr>
-<td width="50%">
+
+<td width="33%" valign="top">
 
 ### 💳 PaySphere
+
 **Secure Exam Fee & Hall Ticket Management System**
 
-🛠️ **Tech Stack**
-- Java
-- Spring Boot
-- MySQL
-- HTML
-- CSS
-- JavaScript
+A full-stack web application to manage exam fee payments, generate hall tickets, and maintain semester-wise payment records.
 
-✨ Features
-- Student Login
-- Admin Dashboard
-- Fee Payment
-- Hall Ticket Generation
-- Receipt Generation
+**🛠️ Tech Stack**
 
-🔗 **Repository:**  
-👉 https://github.com/NASAMEERKHAN/PaySphere-Secure-Exam-Fee-Hall-Ticket-Management-System
+`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/NASAMEERKHAN/PaySphere-Secure-Exam-Fee-Hall-Ticket-Management-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🌐 Sameer Portfolio
-**Personal Portfolio Website**
+### 🌐 Portfolio
 
-🛠️ **Tech Stack**
-- HTML5
-- CSS3
-- JavaScript
+**Personal Developer Portfolio**
 
-✨ Features
-- Responsive Design
-- About Me
-- Skills
-- Projects
-- Contact Form
+A responsive portfolio website showcasing my skills, projects, achievements and contact information.
 
-🔗 **Repository:**  
-👉 https://github.com/NASAMEERKHAN/sameer-portfolio
+**🛠️ Tech Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+<br>
+
+<a href="https://github.com/NASAMEERKHAN/sameer-portfolio">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td>
+<td width="33%" valign="top">
 
 ### 📝 Quiz Application
 
-Interactive Quiz Platform
+**Online Quiz Management System**
 
-🛠️ Tech Stack
+A quiz platform featuring authentication, timer, automatic score calculation and leaderboard.
 
-- Java
-- Spring Boot
-- MySQL
+**🛠️ Tech Stack**
 
-✨ Features
+`Java` `Spring Boot` `MySQL`
 
-- Login
-- Quiz Timer
-- Score Calculation
-- Leaderboard
+<br>
 
-🔗 Repository
-
-👉 https://github.com/NASAMEERKHAN/QuizApplication
+<a href="https://github.com/NASAMEERKHAN/QuizApplication">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-
 </tr>
-
 </table>
-
 ## 🚀 Currently Learning
 
 <p align="center">
@@ -221,7 +202,8 @@ Interactive Quiz Platform
 <img src="https://img.shields.io/badge/📚_DSA-20232A?style=for-the-badge&labelColor=1E1E1E&color=00C853"/>
 
 </p>
-## 📬 Connect With Me
+
+📬 Connect With Me
 
 <p align="center">
 
