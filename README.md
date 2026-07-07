@@ -20,94 +20,58 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>
-<b>Java</b>
-</td>
-
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,aws,docker,idea,vscode,html,css,js,maven,postman" />
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  </a>
+  <a href="https://aws.amazon.com">
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  </a>
 </p>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/><br>
-<b>Spring Boot</b>
-</td>
+<p align="center">
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+  </a>
+  <a href="https://maven.apache.org">
+    <img src="https://skillicons.dev/icons?i=maven" title="Maven"/>
+  </a>
+  <a href="https://www.postman.com">
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/>
+  </a>
+</p>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>
-<b>MySQL</b>
-</td>
-
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br>
-<b>REST API</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>
-<b>GitHub</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60"/><br>
-<b>Maven</b>
-</td>
-
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br>
-<b>Postman</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/><br>
-<b>AWS</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>
-<b>Docker</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/><br>
-<b>IntelliJ IDEA</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>
-<b>VS Code</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>
-<b>HTML5</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>
-<b>CSS3</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>
-<b>JavaScript</b>
-</td>
-
-<td></td>
+<p align="center">
+<strong>
+Java • Spring Boot • MySQL • Git • GitHub • AWS • Docker • IntelliJ IDEA • VS Code • Maven • Postman • HTML5 • CSS3 • JavaScript • REST APIs
+</strong>
+</p>
 </tr>
 </table>
