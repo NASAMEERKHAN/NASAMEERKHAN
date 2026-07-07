@@ -212,3 +212,14 @@ Interactive Quiz Platform
 - 🐳 Docker
 - 🏗️ System Design
 - 📚 Data Structures & Algorithms
+- 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/n-a-sameer-khan-5126902a8/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sameerlhan456@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
