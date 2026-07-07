@@ -21,26 +21,90 @@
 
 <table>
 <tr>
-
-<td align="center" width="220">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-
-<br><br>
-
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br><br>
 <b>Java</b>
-
 </td>
 
-<td align="center" width="220">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55"/>
-
-<br><br>
-
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55"/><br><br>
 <b>Spring Boot</b>
-
 </td>
 
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="55"/><br><br>
+<b>REST API</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/><br><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55"/><br><br>
+<b>Maven</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55"/><br><br>
+<b>Postman</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/><br><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/><br><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55"/><br><br>
+<b>IntelliJ IDEA</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br><br>
+<b>HTML5</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br><br>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="55"/><br><br>
+<b>Backend</b>
+</td>
+
+<td align="center" width="170">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="55"/><br><br>
+<b>Software Engineering</b>
+</td>
 </tr>
 </table>
