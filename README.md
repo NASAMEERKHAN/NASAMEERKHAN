@@ -250,18 +250,18 @@ A quiz platform featuring authentication, timer, automatic score calculation and
 
 ## 📜 View Certificates
 
-- 📄 [Programming in Java (NPTEL)](Program%20in%20java.pdf)
+- 📄 [☕ Programming in Java – NPTEL](Program%20in%20java.pdf)
 
-- 📄 [Introduction to IoT (NPTEL)](IoT.pdf)
+- 📄 [🌐 Introduction to IoT – NPTEL](IoT.pdf)
 
-- 📄 [SkillDzire Java Internship](FULL%20stack%20java.pdf)
+- 📄 [💻 Java Full Stack Internship – SkillDzire](FULL%20stack%20java.pdf)
 
-- 📄 [SkillDzire Python Internship](Python%20skilldzire.pdf)
+- 📄 [🐍 Python Internship – SkillDzire](Python%20skilldzire.pdf)
 
-- 📄 [IBM Professional Certificate](IBM.pdf)
+- 📄 [🤖 IBM Professional Certificate – Coursera](IBM.pdf)
 
-- 📄 [Google Professional Certificate](Google.pdf)
+- 📄 [📊 Google Professional Certificate – Coursera](Google.pdf)
 
-- 📄 [Smart India Hackathon](SIH.pdf)
+- 📄 [🏆 Smart India Hackathon (SIH)](SIH.pdf)
 
-- 📄 [AIT Thailand International Program](AIT.pdf)
+- 📄 [🌏 AIT Thailand International Program](AIT.pdf)
