@@ -27,6 +27,11 @@
 <b>Java</b>
 </td>
 
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,aws,docker,idea,vscode,html,css,js,maven,postman" />
+</p>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/><br>
 <b>Spring Boot</b>
