@@ -228,18 +228,6 @@ A quiz platform featuring authentication, timer, automatic score calculation and
 </a>
 
 </p>
-## 🏅 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IBM-Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Certified-8A2BE2?style=for-the-badge"/>
-
-
-</p>
 
 
 ## 🏅 Certifications
@@ -248,20 +236,72 @@ A quiz platform featuring authentication, timer, automatic score calculation and
 <img src="https://img.shields.io/badge/View%20All-Certifications-blue?style=for-the-badge&logo=github"/>
 </a>
 
-## 📜 View Certificates
+<h1 align="center">🏆 Professional Certifications</h1>
 
-- 📄 [☕ Programming in Java – NPTEL](Program%20in%20java.pdf)
+<p align="center">
+A collection of my certifications, internships, hackathons, and international achievements demonstrating my continuous learning and professional growth.
+</p>
 
-- 📄 [🌐 Introduction to IoT – NPTEL](IoT.pdf)
+---
 
-- 📄 [💻 Java Full Stack Internship – SkillDzire](FULL%20stack%20java.pdf)
+# 🎓 NPTEL Certifications
 
-- 📄 [🐍 Python Internship – SkillDzire](Python%20skilldzire.pdf)
+| Certificate | View |
+|:------------|:----:|
+| ☕ Programming in Java | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/Program%20in%20java.pdf) |
+| 🌐 Introduction to IoT | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/IoT.pdf) |
 
-- 📄 [🤖 IBM Professional Certificate – Coursera](IBM.pdf)
+---
 
-- 📄 [📊 Google Professional Certificate – Coursera](Google.pdf)
+# 💻 SkillDzire Internships
 
-- 📄 [🏆 Smart India Hackathon (SIH)](SIH.pdf)
+| Certificate | View |
+|:------------|:----:|
+| ☕ Java Full Stack Internship | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/FULL%20stack%20java.pdf) |
+| 🐍 Python Internship | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/Python%20skilldzire.pdf) |
 
-- 📄 [🌏 AIT Thailand International Program](AIT.pdf)
+---
+
+# 🎓 Coursera Professional Certificates
+
+| Certificate | View |
+|:------------|:----:|
+| 🤖 IBM Professional Certificate | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/IBM.pdf) |
+| 📊 Google Professional Certificate | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/Google.pdf) |
+
+---
+
+# 🏆 Competitions & International Programs
+
+| Achievement | View |
+|:------------|:----:|
+| 🏅 Smart India Hackathon (SIH) | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/SIH.pdf) |
+| 🌏 Asian Institute of Technology (Thailand) | 📄 [Open](https://github.com/NASAMEERKHAN/Professional-Certifications/blob/main/AIT.pdf) |
+
+---
+
+## 🌟 Skills Earned
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my Certifications Repository!
+
+</p>
