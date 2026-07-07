@@ -20,130 +20,89 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://restfulapi.net/" target="_blank">
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="65"/>
-</a>
-
-</p>
-
-<p align="center">
-
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>
 <b>Java</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/><br>
 <b>Spring Boot</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>
 <b>MySQL</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br>
 <b>REST API</b>
+</td>
+</tr>
 
-</p>
-
----
-
-<p align="center">
-
-<a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://maven.apache.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.postman.com/">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65"/>
-</a>
-
-</p>
-
-<p align="center">
-
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>
 <b>Git</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>
 <b>GitHub</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60"/><br>
 <b>Maven</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/><br>
 <b>Postman</b>
+</td>
+</tr>
 
-</p>
-
----
-
-<p align="center">
-
-<a href="https://aws.amazon.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.docker.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.jetbrains.com/idea/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://code.visualstudio.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65"/>
-</a>
-
-</p>
-
-<p align="center">
-
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/><br>
 <b>AWS</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>
 <b>Docker</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/><br>
 <b>IntelliJ IDEA</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>
 <b>VS Code</b>
+</td>
+</tr>
 
-</p>
-
----
-
-<p align="center">
-
-<a href="https://developer.mozilla.org/docs/Web/HTML">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/docs/Web/CSS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
-</a>
-
-</p>
-
-<p align="center">
-
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>
 <b>HTML5</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>CSS3</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>JavaScript</b>
+</td>
 
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>
+<b>JavaScript</b>
+</td>
+
+<td></td>
+</tr>
+</table>
