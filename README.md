@@ -213,13 +213,28 @@ Interactive Quiz Platform
 - 🏗️ System Design
 - 📚 Data Structures & Algorithms
 - 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/n-a-sameer-khan-5126902a8/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:sameerlhan456@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<a href="https://www.linkedin.com/in/n-a-sameer-khan-5126902a8/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sameerlhan456@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://nasameerkhan.github.io/sameer-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/___sameer__567/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="file:///C:/Users/Sameer%20Khan/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/A9F54C5D8AB8A9123D611C042F34B605D07E197E/transfers/2026-27/Sameer_RESUME.pdf">
+<img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 </p>
