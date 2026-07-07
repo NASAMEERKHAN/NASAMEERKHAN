@@ -240,6 +240,14 @@ A quiz platform featuring authentication, timer, automatic score calculation and
 
 
 </p>
+
+
+## 🏅 Certifications
+
+<a href="https://github.com/NASAMEERKHAN/Professional-Certifications">
+<img src="https://img.shields.io/badge/View%20All-Certifications-blue?style=for-the-badge&logo=github"/>
+</a>
+
 ## 📜 View Certificates
 
 - 📄 [Programming in Java (NPTEL)](Programming%20in%20Java.pdf)
