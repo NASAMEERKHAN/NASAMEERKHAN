@@ -233,7 +233,8 @@ Interactive Quiz Platform
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="file:///C:/Users/Sameer%20Khan/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/A9F54C5D8AB8A9123D611C042F34B605D07E197E/transfers/2026-27/Sameer_RESUME.pdf">
+<a href="file:///C:/Users/Sameer%20Khan/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/A9F54C5D8AB8A9123D611C042F34B605D07E197E/transfers/2026-">
+<a href="">
 <img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
