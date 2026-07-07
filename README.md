@@ -204,15 +204,23 @@ Interactive Quiz Platform
 
 </table>
 
-## 🌱 Currently Learning
+## 🚀 Currently Learning
 
-- ☕ Advanced Java
-- 🍃 Spring Boot
-- ☁️ AWS Cloud
-- 🐳 Docker
-- 🏗️ System Design
-- 📚 Data Structures & Algorithms
-- 
+<p align="center">
+
+<img src="https://img.shields.io/badge/☕_Advanced_Java-20232A?style=for-the-badge&labelColor=1E1E1E&color=E76F00"/>
+
+<img src="https://img.shields.io/badge/🍃_Spring_Boot-20232A?style=for-the-badge&labelColor=1E1E1E&color=6DB33F"/>
+
+<img src="https://img.shields.io/badge/☁️_AWS_Cloud-20232A?style=for-the-badge&labelColor=1E1E1E&color=FF9900"/>
+
+<img src="https://img.shields.io/badge/🐳_Docker-20232A?style=for-the-badge&labelColor=1E1E1E&color=2496ED"/>
+
+<img src="https://img.shields.io/badge/🧠_System_Design-20232A?style=for-the-badge&labelColor=1E1E1E&color=8A2BE2"/>
+
+<img src="https://img.shields.io/badge/📚_DSA-20232A?style=for-the-badge&labelColor=1E1E1E&color=00C853"/>
+
+</p>
 ## 📬 Connect With Me
 
 <p align="center">
