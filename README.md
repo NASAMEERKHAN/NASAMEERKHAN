@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Bannerr.png" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Nayab Abdul Sameer Khan</h1>
 
 <h3 align="center">A Passionate Java Backend Developer from India 🇮🇳</h3>
