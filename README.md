@@ -108,3 +108,88 @@
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NASAMEERKHAN&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+## 🚀 Featured Projects
+
+<table>
+
+<tr>
+<td width="50%">
+
+### 💳 PaySphere
+**Secure Exam Fee & Hall Ticket Management System**
+
+🛠️ **Tech Stack**
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+✨ Features
+- Student Login
+- Admin Dashboard
+- Fee Payment
+- Hall Ticket Generation
+- Receipt Generation
+
+🔗 **Repository:**  
+👉 https://github.com/NASAMEERKHAN/PaySphere-Secure-Exam-Fee-Hall-Ticket-Management-System
+
+</td>
+
+<td width="50%">
+
+### 🌐 Sameer Portfolio
+**Personal Portfolio Website**
+
+🛠️ **Tech Stack**
+- HTML5
+- CSS3
+- JavaScript
+
+✨ Features
+- Responsive Design
+- About Me
+- Skills
+- Projects
+- Contact Form
+
+🔗 **Repository:**  
+👉 https://github.com/NASAMEERKHAN/sameer-portfolio
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📝 Quiz Application
+
+Interactive Quiz Platform
+
+🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+
+✨ Features
+
+- Login
+- Quiz Timer
+- Score Calculation
+- Leaderboard
+
+🔗 Repository
+
+👉 https://github.com/NASAMEERKHAN/QuizApplication
+
+</td>
+
+
+</tr>
+
+</table>
