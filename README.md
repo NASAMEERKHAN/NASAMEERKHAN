@@ -108,6 +108,20 @@
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NASAMEERKHAN&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NASAMEERKHAN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NASAMEERKHAN&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ## 🚀 Featured Projects
 
 <table>
