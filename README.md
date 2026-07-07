@@ -310,3 +310,9 @@ A collection of my certifications, internships, hackathons, and international ac
 ⭐ Thank you for visiting my Certifications Repository!
 
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NASAMEERKHAN/NASAMEERKHAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
