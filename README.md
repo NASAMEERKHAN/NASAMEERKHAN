@@ -203,3 +203,12 @@ Interactive Quiz Platform
 </tr>
 
 </table>
+
+## 🌱 Currently Learning
+
+- ☕ Advanced Java
+- 🍃 Spring Boot
+- ☁️ AWS Cloud
+- 🐳 Docker
+- 🏗️ System Design
+- 📚 Data Structures & Algorithms
