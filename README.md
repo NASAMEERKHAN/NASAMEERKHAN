@@ -317,3 +317,20 @@ A collection of my certifications, internships, hackathons, and international ac
 <p align="center">
   <img src="https://raw.githubusercontent.com/NASAMEERKHAN/NASAMEERKHAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+---
+
+<div align="center">
+
+## 💚 Thank You for Visiting!
+
+*"Building today. Learning every day. Growing for tomorrow."*
+
+**Nayab Abdul Sameer Khan**
+
+☕ Java Backend Developer • 🚀 Software Engineer
+
+⭐ If you like my work, don't forget to star my repositories!
+
+**Happy Coding! 💚**
+
+</div>
